@@ -45,7 +45,7 @@ follows here:
  * `m.dm`: The event was in a Direct Message room.
  * `m.msg`: The event contains a visible body.
 
-### APIs for configuring the assignment of event notification attributes
+#### Configuration data for notification attributes
 
 The assignment of event notification attributes has a limited amount of
 configuration. This information is stored in an
@@ -86,6 +86,13 @@ Homeservers should check the content of any uploaded
 malformed data and behave "sensibly" (for example: the user might upload
 malformed data to an older server version which does not yet support the
 required checks).
+
+#### `m.keyword`
+
+etc
+
+
+### APIs for updating the configuration
 
 A number of APIs are defined to allow the configuration data to be atomically
 manipulated and interrogated at a finer level. These are defined as follows.

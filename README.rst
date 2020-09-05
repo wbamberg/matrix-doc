@@ -12,7 +12,7 @@ repository, are now in https://github.com/matrix-org/matrix.org.
 Structure of this repository
 ============================
 
-- ``api`` : `OpenAPI`_ (swagger) specifications for the the HTTP APIs.
+- ``api`` : `OpenAPI`_ (swagger) specifications for the HTTP APIs.
 - ``attic``: historical sections of specification for reference
   purposes.
 - ``changelogs``: change logs for the various parts of the

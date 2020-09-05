@@ -12,7 +12,7 @@ repository, are now in https://github.com/matrix-org/matrix.org.
 Structure of this repository
 ============================
 
-- ``api`` : `OpenAPI`_ (swagger) specifications for the the HTTP APIs.
+- ``api`` : `OpenAPI`_ (swagger) specifications for the HTTP APIs.
 - ``attic``: historical sections of specification for reference
   purposes.
 - ``changelogs``: change logs for the various parts of the
@@ -66,7 +66,7 @@ The above will write the rendered version of the specification to
 
 Windows users
 ~~~~~~~~~~~~~
-The ``source`` program does not exist on Windows, so instead run one of the 
+The ``source`` program does not exist on Windows, so instead run one of the
 ``activate`` files in ``.\env\Scripts\`` to activate the virtual environment.
 
 If you're on Windows Vista or higher, be sure that the "Symbolic Links"

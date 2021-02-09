@@ -40,9 +40,7 @@ privacy_policy = "https://matrix.org/legal/privacy-notice"
 # this is used to decide whether to show a banner pointing to the current release
 status = "current"
 current_version_url = "https://spec.matrix.org/latest"
-major_version = 1
-minor_version = 1
-patch_version = 2
+number = 1.2
 
 # User interface configuration
 [params.ui]
